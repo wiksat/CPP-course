@@ -1,0 +1,90 @@
+Running main() from /tmp/tmpfxa4_5gr/student/zaj4ShapeDrawing/tests/lib/googletest/src/gtest_main.cc
+[==========] Running 12 tests from 3 test suites.
+[----------] Global test environment set-up.
+[----------] 4 tests from RectangleTester
+[ RUN      ] RectangleTester.constructorOfRectangleStartingInBeginningOfSystemCoordinate
+/tmp/tmpfxa4_5gr/student/zaj4ShapeDrawing/tests/shapesTests.cpp:91: Failure
+Failed
+Rectangle not implemented!
+[  FAILED  ] RectangleTester.constructorOfRectangleStartingInBeginningOfSystemCoordinate (0 ms)
+[ RUN      ] RectangleTester.isInMethodOfRectangleStartingInBeginningOfCoordinateSystem
+/tmp/tmpfxa4_5gr/student/zaj4ShapeDrawing/tests/shapesTests.cpp:110: Failure
+Failed
+Rectangle not implemented!
+[  FAILED  ] RectangleTester.isInMethodOfRectangleStartingInBeginningOfCoordinateSystem (0 ms)
+[ RUN      ] RectangleTester.isInMethodOfRectangleStartingNotInBeginningOfCoordinateSystem
+/tmp/tmpfxa4_5gr/student/zaj4ShapeDrawing/tests/shapesTests.cpp:129: Failure
+Failed
+Rectangle not implemented!
+[  FAILED  ] RectangleTester.isInMethodOfRectangleStartingNotInBeginningOfCoordinateSystem (0 ms)
+[ RUN      ] RectangleTester.constructorOfRectangleWithBothSitesEqualToZero
+/tmp/tmpfxa4_5gr/student/zaj4ShapeDrawing/tests/shapesTests.cpp:144: Failure
+Failed
+Rectangle not implemented!
+[  FAILED  ] RectangleTester.constructorOfRectangleWithBothSitesEqualToZero (0 ms)
+[----------] 4 tests from RectangleTester (0 ms total)
+
+[----------] 4 tests from CircleTester
+[ RUN      ] CircleTester.constructorOfCircleStartingInBeginningOfCoordinateSystem
+/tmp/tmpfxa4_5gr/student/zaj4ShapeDrawing/tests/shapesTests.cpp:174: Failure
+Failed
+Circle not implemented!
+[  FAILED  ] CircleTester.constructorOfCircleStartingInBeginningOfCoordinateSystem (0 ms)
+[ RUN      ] CircleTester.isInMethodOfCircleStartingInBeginningOfCoordinateSystem
+/tmp/tmpfxa4_5gr/student/zaj4ShapeDrawing/tests/shapesTests.cpp:211: Failure
+Failed
+Circle not implemented!
+[  FAILED  ] CircleTester.isInMethodOfCircleStartingInBeginningOfCoordinateSystem (0 ms)
+[ RUN      ] CircleTester.isInMethodOfCircleStartingNotInBeginningOfCoordinateSystem
+/tmp/tmpfxa4_5gr/student/zaj4ShapeDrawing/tests/shapesTests.cpp:243: Failure
+Failed
+Circle not implemented!
+[  FAILED  ] CircleTester.isInMethodOfCircleStartingNotInBeginningOfCoordinateSystem (0 ms)
+[ RUN      ] CircleTester.constructorOfCircleWithRadiusEqualToZero
+/tmp/tmpfxa4_5gr/student/zaj4ShapeDrawing/tests/shapesTests.cpp:258: Failure
+Failed
+Circle not implemented!
+[  FAILED  ] CircleTester.constructorOfCircleWithRadiusEqualToZero (0 ms)
+[----------] 4 tests from CircleTester (0 ms total)
+
+[----------] 4 tests from ShapeCompositeTester
+[ RUN      ] ShapeCompositeTester.sumOfSqhareAndCircle
+/tmp/tmpfxa4_5gr/student/zaj4ShapeDrawing/tests/shapesTests.cpp:319: Failure
+Failed
+Required classes not implemented not implemented!
+[  FAILED  ] ShapeCompositeTester.sumOfSqhareAndCircle (0 ms)
+[ RUN      ] ShapeCompositeTester.intersectionOfSqhareAndCircle
+/tmp/tmpfxa4_5gr/student/zaj4ShapeDrawing/tests/shapesTests.cpp:376: Failure
+Failed
+Required classes not implemented not implemented!
+[  FAILED  ] ShapeCompositeTester.intersectionOfSqhareAndCircle (0 ms)
+[ RUN      ] ShapeCompositeTester.differenceOfSqhareAndCircle
+/tmp/tmpfxa4_5gr/student/zaj4ShapeDrawing/tests/shapesTests.cpp:431: Failure
+Failed
+Required classes not implemented not implemented!
+[  FAILED  ] ShapeCompositeTester.differenceOfSqhareAndCircle (0 ms)
+[ RUN      ] ShapeCompositeTester.drawingHouse
+/tmp/tmpfxa4_5gr/student/zaj4ShapeDrawing/tests/shapesTests.cpp:495: Failure
+Failed
+Required classes not implemented not implemented!
+[  FAILED  ] ShapeCompositeTester.drawingHouse (0 ms)
+[----------] 4 tests from ShapeCompositeTester (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 12 tests from 3 test suites ran. (0 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 12 tests, listed below:
+[  FAILED  ] RectangleTester.constructorOfRectangleStartingInBeginningOfSystemCoordinate
+[  FAILED  ] RectangleTester.isInMethodOfRectangleStartingInBeginningOfCoordinateSystem
+[  FAILED  ] RectangleTester.isInMethodOfRectangleStartingNotInBeginningOfCoordinateSystem
+[  FAILED  ] RectangleTester.constructorOfRectangleWithBothSitesEqualToZero
+[  FAILED  ] CircleTester.constructorOfCircleStartingInBeginningOfCoordinateSystem
+[  FAILED  ] CircleTester.isInMethodOfCircleStartingInBeginningOfCoordinateSystem
+[  FAILED  ] CircleTester.isInMethodOfCircleStartingNotInBeginningOfCoordinateSystem
+[  FAILED  ] CircleTester.constructorOfCircleWithRadiusEqualToZero
+[  FAILED  ] ShapeCompositeTester.sumOfSqhareAndCircle
+[  FAILED  ] ShapeCompositeTester.intersectionOfSqhareAndCircle
+[  FAILED  ] ShapeCompositeTester.differenceOfSqhareAndCircle
+[  FAILED  ] ShapeCompositeTester.drawingHouse
+
+12 FAILED TESTS

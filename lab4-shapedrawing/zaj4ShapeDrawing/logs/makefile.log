@@ -1,0 +1,12 @@
+[ 16%] Building CXX object tests/lib/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o
+[ 33%] Linking CXX static library ../../../lib/libgtest.a
+[ 33%] Built target gtest
+[ 50%] Building CXX object tests/lib/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o
+[ 66%] Linking CXX static library ../../../lib/libgtest_main.a
+[ 66%] Built target gtest_main
+[ 83%] Building CXX object tests/CMakeFiles/tests.dir/shapesTests.cpp.o
+/tmp/tmpfxa4_5gr/student/zaj4ShapeDrawing/tests/shapesTests.cpp:57:6: warning: ‘void {anonymous}::printShape(const Shapes::Shape*, size_t, size_t)’ defined but not used [-Wunused-function]
+   57 | void printShape(const Shapes::Shape* shape, size_t width, size_t heigh)
+      |      ^~~~~~~~~~
+[100%] Linking CXX executable ../bin/tests
+[100%] Built target tests

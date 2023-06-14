@@ -1,0 +1,10 @@
+"C:\Program Files\JetBrains\CLion 2022.3.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2022.3.3/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\wikto\CLionProjects\lab5-templates-mylist-and-mysort\zaj5MyList_mySort -B C:\Users\wikto\CLionProjects\lab5-templates-mylist-and-mysort\zaj5MyList_mySort\cmake-build-debug
+Katalog do zbudowanego projektu: C:/Users/wikto/CLionProjects/lab5-templates-mylist-and-mysort/zaj5MyList_mySort/cmake-build-debug
+ + Znaleziono nagłówki: C:/Users/wikto/CLionProjects/lab5-templates-mylist-and-mysort/zaj5MyList_mySort/myList.h;C:/Users/wikto/CLionProjects/lab5-templates-mylist-and-mysort/zaj5MyList_mySort/mySorting.h
+ + Znaleziono źródła: C:/Users/wikto/CLionProjects/lab5-templates-mylist-and-mysort/zaj5MyList_mySort/main.cpp
+ + Znaleziono źródła bez main.cpp: 
+ + Znaleziono pliki testów: C:/Users/wikto/CLionProjects/lab5-templates-mylist-and-mysort/zaj5MyList_mySort/tests/MyListTests.cpp;C:/Users/wikto/CLionProjects/lab5-templates-mylist-and-mysort/zaj5MyList_mySort/tests/MySortTests.cpp
+ + katalog nagłówków: 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/wikto/CLionProjects/lab5-templates-mylist-and-mysort/zaj5MyList_mySort/cmake-build-debug

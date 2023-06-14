@@ -1,0 +1,15 @@
+# ninja log v5
+13	360	7082553714151534	CMakeFiles/zad6MyString_dlaStudentow.dir/mystring.cpp.obj	39da69e1dfc3303b
+1	476	7082554329837028	CMakeFiles/zad6MyString_dlaStudentow.dir/main.cpp.obj	14905d857ed04703
+478	679	7082554331843213	bin/zad6MyString_dlaStudentow.exe	8ed88951a8c49837
+1	99	7082554444736472	tests/CMakeFiles/tests.dir/__/mystring.cpp.obj	1f5f49222e4890d8
+21	1553	7082554459219241	tests/lib/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	67e56dfb70fde792
+14	12222	7082554565736565	tests/lib/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	954592c047bf377a
+11	1653	7082599457722337	tests/CMakeFiles/tests.dir/__/mystring.cpp.obj	1f5f49222e4890d8
+24	4054	7082599481717696	lib/libgtest.a	5ab1a56fbc79e975
+40	295	7082629679331889	lib/libgtest_main.a	c93c70a8e3f2fd28
+8	2338	7082629699754473	tests/CMakeFiles/tests.dir/__/mystring.cpp.obj	1f5f49222e4890d8
+5	1355	7082631896079968	tests/CMakeFiles/tests.dir/__/mystring.cpp.obj	1f5f49222e4890d8
+12	2018	7082639437381981	tests/CMakeFiles/tests.dir/__/mystring.cpp.obj	1f5f49222e4890d8
+6	3550	7082639452685204	tests/CMakeFiles/tests.dir/myStringTests.cpp.obj	b0a3e967b67d888c
+3550	7674	7082639493718793	bin/tests.exe	3367c5b0b155b9d7

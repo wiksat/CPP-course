@@ -1,0 +1,33 @@
+/tmp/tmph6wpmps7/student/zaj6MyString/mystring.h:28:5: warning: Class 'MyString' has a constructor with 1 argument that is not explicit. [noExplicitConstructor]
+    MyString(const char text[]) : string_text(text), string_size(string_text.size()),
+    ^
+/tmp/tmph6wpmps7/student/zaj6MyString/mystring.cpp:63:18: warning: Consider using std::accumulate algorithm instead of a raw loop. [useStlAlgorithm]
+            text += c;
+                 ^
+/tmp/tmph6wpmps7/student/zaj6MyString/mystring.cpp:65:18: warning: Consider using std::accumulate algorithm instead of a raw loop. [useStlAlgorithm]
+            text += sep;
+                 ^
+/tmp/tmph6wpmps7/student/zaj6MyString/mystring.cpp:59:0: warning: The function 'join' is never used. [unusedFunction]
+MyString MyString::join(const std::vector<MyString> &string) const {
+^
+/tmp/tmph6wpmps7/student/zaj6MyString/mystring.cpp:72:0: warning: The function 'generateRandomWord' is never used. [unusedFunction]
+MyString MyString::generateRandomWord(size_t length) {
+^
+/tmp/tmph6wpmps7/student/zaj6MyString/mystring.cpp:79:0: warning: The function 'getUniqueWords' is never used. [unusedFunction]
+std::set<MyString> MyString::getUniqueWords() const {
+^
+/tmp/tmph6wpmps7/student/zaj6MyString/mystring.cpp:100:0: warning: The function 'countWordsUsageIgnoringCases' is never used. [unusedFunction]
+std::map<MyString, size_t> MyString::countWordsUsageIgnoringCases() const {
+^
+/tmp/tmph6wpmps7/student/zaj6MyString/mystring.cpp:127:0: warning: The function 'startsWith' is never used. [unusedFunction]
+bool MyString::startsWith(std::string string) const {
+^
+/tmp/tmph6wpmps7/student/zaj6MyString/mystring.cpp:133:0: warning: The function 'endsWith' is never used. [unusedFunction]
+bool MyString::endsWith(std::string string) const {
+^
+/tmp/tmph6wpmps7/student/zaj6MyString/mystring.cpp:139:0: warning: The function 'toLower' is never used. [unusedFunction]
+void MyString::toLower() {
+^
+/tmp/tmph6wpmps7/student/zaj6MyString/mystring.cpp:145:0: warning: The function 'trim' is never used. [unusedFunction]
+void MyString::trim() {
+^

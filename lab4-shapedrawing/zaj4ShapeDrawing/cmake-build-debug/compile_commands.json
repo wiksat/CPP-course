@@ -1,0 +1,62 @@
+[
+{
+  "directory": "C:/Users/wikto/CLionProjects/lab4-shapedrawing/zaj4ShapeDrawing/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE --std=c++17 -Wall -Wextra -pedantic -g -fdiagnostics-color=always -std=c++17 -o CMakeFiles\\zad4ShapeDrawing_dlaStudentow.dir\\circle.cpp.obj -c C:\\Users\\wikto\\CLionProjects\\lab4-shapedrawing\\zaj4ShapeDrawing\\circle.cpp",
+  "file": "C:\\Users\\wikto\\CLionProjects\\lab4-shapedrawing\\zaj4ShapeDrawing\\circle.cpp"
+},
+{
+  "directory": "C:/Users/wikto/CLionProjects/lab4-shapedrawing/zaj4ShapeDrawing/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE --std=c++17 -Wall -Wextra -pedantic -g -fdiagnostics-color=always -std=c++17 -o CMakeFiles\\zad4ShapeDrawing_dlaStudentow.dir\\main.cpp.obj -c C:\\Users\\wikto\\CLionProjects\\lab4-shapedrawing\\zaj4ShapeDrawing\\main.cpp",
+  "file": "C:\\Users\\wikto\\CLionProjects\\lab4-shapedrawing\\zaj4ShapeDrawing\\main.cpp"
+},
+{
+  "directory": "C:/Users/wikto/CLionProjects/lab4-shapedrawing/zaj4ShapeDrawing/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE --std=c++17 -Wall -Wextra -pedantic -g -fdiagnostics-color=always -std=c++17 -o CMakeFiles\\zad4ShapeDrawing_dlaStudentow.dir\\rectangle.cpp.obj -c C:\\Users\\wikto\\CLionProjects\\lab4-shapedrawing\\zaj4ShapeDrawing\\rectangle.cpp",
+  "file": "C:\\Users\\wikto\\CLionProjects\\lab4-shapedrawing\\zaj4ShapeDrawing\\rectangle.cpp"
+},
+{
+  "directory": "C:/Users/wikto/CLionProjects/lab4-shapedrawing/zaj4ShapeDrawing/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE --std=c++17 -Wall -Wextra -pedantic -g -fdiagnostics-color=always -std=c++17 -o CMakeFiles\\zad4ShapeDrawing_dlaStudentow.dir\\shapecomposite.cpp.obj -c C:\\Users\\wikto\\CLionProjects\\lab4-shapedrawing\\zaj4ShapeDrawing\\shapecomposite.cpp",
+  "file": "C:\\Users\\wikto\\CLionProjects\\lab4-shapedrawing\\zaj4ShapeDrawing\\shapecomposite.cpp"
+},
+{
+  "directory": "C:/Users/wikto/CLionProjects/lab4-shapedrawing/zaj4ShapeDrawing/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -isystem C:/Users/wikto/CLionProjects/lab4-shapedrawing/zaj4ShapeDrawing/tests/lib/googletest/include -isystem C:/Users/wikto/CLionProjects/lab4-shapedrawing/zaj4ShapeDrawing/tests/lib/googletest --std=c++17 -Wall -Wextra -pedantic -g -fdiagnostics-color=always -std=c++17 -o tests\\CMakeFiles\\tests.dir\\shapesTests.cpp.obj -c C:\\Users\\wikto\\CLionProjects\\lab4-shapedrawing\\zaj4ShapeDrawing\\tests\\shapesTests.cpp",
+  "file": "C:\\Users\\wikto\\CLionProjects\\lab4-shapedrawing\\zaj4ShapeDrawing\\tests\\shapesTests.cpp"
+},
+{
+  "directory": "C:/Users/wikto/CLionProjects/lab4-shapedrawing/zaj4ShapeDrawing/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -isystem C:/Users/wikto/CLionProjects/lab4-shapedrawing/zaj4ShapeDrawing/tests/lib/googletest/include -isystem C:/Users/wikto/CLionProjects/lab4-shapedrawing/zaj4ShapeDrawing/tests/lib/googletest --std=c++17 -Wall -Wextra -pedantic -g -fdiagnostics-color=always -std=c++17 -o tests\\CMakeFiles\\tests.dir\\__\\circle.cpp.obj -c C:\\Users\\wikto\\CLionProjects\\lab4-shapedrawing\\zaj4ShapeDrawing\\circle.cpp",
+  "file": "C:\\Users\\wikto\\CLionProjects\\lab4-shapedrawing\\zaj4ShapeDrawing\\circle.cpp"
+},
+{
+  "directory": "C:/Users/wikto/CLionProjects/lab4-shapedrawing/zaj4ShapeDrawing/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -isystem C:/Users/wikto/CLionProjects/lab4-shapedrawing/zaj4ShapeDrawing/tests/lib/googletest/include -isystem C:/Users/wikto/CLionProjects/lab4-shapedrawing/zaj4ShapeDrawing/tests/lib/googletest --std=c++17 -Wall -Wextra -pedantic -g -fdiagnostics-color=always -std=c++17 -o tests\\CMakeFiles\\tests.dir\\__\\rectangle.cpp.obj -c C:\\Users\\wikto\\CLionProjects\\lab4-shapedrawing\\zaj4ShapeDrawing\\rectangle.cpp",
+  "file": "C:\\Users\\wikto\\CLionProjects\\lab4-shapedrawing\\zaj4ShapeDrawing\\rectangle.cpp"
+},
+{
+  "directory": "C:/Users/wikto/CLionProjects/lab4-shapedrawing/zaj4ShapeDrawing/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -isystem C:/Users/wikto/CLionProjects/lab4-shapedrawing/zaj4ShapeDrawing/tests/lib/googletest/include -isystem C:/Users/wikto/CLionProjects/lab4-shapedrawing/zaj4ShapeDrawing/tests/lib/googletest --std=c++17 -Wall -Wextra -pedantic -g -fdiagnostics-color=always -std=c++17 -o tests\\CMakeFiles\\tests.dir\\__\\shapecomposite.cpp.obj -c C:\\Users\\wikto\\CLionProjects\\lab4-shapedrawing\\zaj4ShapeDrawing\\shapecomposite.cpp",
+  "file": "C:\\Users\\wikto\\CLionProjects\\lab4-shapedrawing\\zaj4ShapeDrawing\\shapecomposite.cpp"
+},
+{
+  "directory": "C:/Users/wikto/CLionProjects/lab4-shapedrawing/zaj4ShapeDrawing/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -IC:/Users/wikto/CLionProjects/lab4-shapedrawing/zaj4ShapeDrawing/tests/lib/googlemock/include -IC:/Users/wikto/CLionProjects/lab4-shapedrawing/zaj4ShapeDrawing/tests/lib/googlemock -isystem C:/Users/wikto/CLionProjects/lab4-shapedrawing/zaj4ShapeDrawing/tests/lib/googletest/include -isystem C:/Users/wikto/CLionProjects/lab4-shapedrawing/zaj4ShapeDrawing/tests/lib/googletest --std=c++17 -Wall -Wextra -pedantic -g -fdiagnostics-color=always -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++17 -o tests\\lib\\googlemock\\CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj -c C:\\Users\\wikto\\CLionProjects\\lab4-shapedrawing\\zaj4ShapeDrawing\\tests\\lib\\googlemock\\src\\gmock-all.cc",
+  "file": "C:\\Users\\wikto\\CLionProjects\\lab4-shapedrawing\\zaj4ShapeDrawing\\tests\\lib\\googlemock\\src\\gmock-all.cc"
+},
+{
+  "directory": "C:/Users/wikto/CLionProjects/lab4-shapedrawing/zaj4ShapeDrawing/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -isystem C:/Users/wikto/CLionProjects/lab4-shapedrawing/zaj4ShapeDrawing/tests/lib/googlemock/include -isystem C:/Users/wikto/CLionProjects/lab4-shapedrawing/zaj4ShapeDrawing/tests/lib/googlemock -isystem C:/Users/wikto/CLionProjects/lab4-shapedrawing/zaj4ShapeDrawing/tests/lib/googletest/include -isystem C:/Users/wikto/CLionProjects/lab4-shapedrawing/zaj4ShapeDrawing/tests/lib/googletest --std=c++17 -Wall -Wextra -pedantic -g -fdiagnostics-color=always -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++17 -o tests\\lib\\googlemock\\CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj -c C:\\Users\\wikto\\CLionProjects\\lab4-shapedrawing\\zaj4ShapeDrawing\\tests\\lib\\googlemock\\src\\gmock_main.cc",
+  "file": "C:\\Users\\wikto\\CLionProjects\\lab4-shapedrawing\\zaj4ShapeDrawing\\tests\\lib\\googlemock\\src\\gmock_main.cc"
+},
+{
+  "directory": "C:/Users/wikto/CLionProjects/lab4-shapedrawing/zaj4ShapeDrawing/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -IC:/Users/wikto/CLionProjects/lab4-shapedrawing/zaj4ShapeDrawing/tests/lib/googletest/include -IC:/Users/wikto/CLionProjects/lab4-shapedrawing/zaj4ShapeDrawing/tests/lib/googletest --std=c++17 -Wall -Wextra -pedantic -g -fdiagnostics-color=always -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++17 -o tests\\lib\\googletest\\CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj -c C:\\Users\\wikto\\CLionProjects\\lab4-shapedrawing\\zaj4ShapeDrawing\\tests\\lib\\googletest\\src\\gtest-all.cc",
+  "file": "C:\\Users\\wikto\\CLionProjects\\lab4-shapedrawing\\zaj4ShapeDrawing\\tests\\lib\\googletest\\src\\gtest-all.cc"
+},
+{
+  "directory": "C:/Users/wikto/CLionProjects/lab4-shapedrawing/zaj4ShapeDrawing/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -isystem C:/Users/wikto/CLionProjects/lab4-shapedrawing/zaj4ShapeDrawing/tests/lib/googletest/include -isystem C:/Users/wikto/CLionProjects/lab4-shapedrawing/zaj4ShapeDrawing/tests/lib/googletest --std=c++17 -Wall -Wextra -pedantic -g -fdiagnostics-color=always -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++17 -o tests\\lib\\googletest\\CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj -c C:\\Users\\wikto\\CLionProjects\\lab4-shapedrawing\\zaj4ShapeDrawing\\tests\\lib\\googletest\\src\\gtest_main.cc",
+  "file": "C:\\Users\\wikto\\CLionProjects\\lab4-shapedrawing\\zaj4ShapeDrawing\\tests\\lib\\googletest\\src\\gtest_main.cc"
+}
+]

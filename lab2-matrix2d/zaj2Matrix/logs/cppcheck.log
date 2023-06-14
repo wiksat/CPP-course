@@ -1,0 +1,6 @@
+/tmp/tmpzpkmblvo/student/zaj2Matrix/matrix.cpp:19:15: warning: Consider using std::fill algorithm instead of a raw loop. [useStlAlgorithm]
+            j = 0;
+              ^
+/tmp/tmpzpkmblvo/student/zaj2Matrix/matrix.cpp:84:15: warning: Consider using std::transform algorithm instead of a raw loop. [useStlAlgorithm]
+            j *= number;
+              ^

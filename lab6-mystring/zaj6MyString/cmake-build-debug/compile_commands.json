@@ -1,0 +1,42 @@
+[
+{
+  "directory": "C:/Users/wikto/CLionProjects/lab6-mystring/zaj6MyString/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE --std=c++17 -Wall -Wextra -pedantic -Weffc++ -g -fdiagnostics-color=always -std=c++17 -o CMakeFiles\\zad6MyString_dlaStudentow.dir\\main.cpp.obj -c C:\\Users\\wikto\\CLionProjects\\lab6-mystring\\zaj6MyString\\main.cpp",
+  "file": "C:\\Users\\wikto\\CLionProjects\\lab6-mystring\\zaj6MyString\\main.cpp"
+},
+{
+  "directory": "C:/Users/wikto/CLionProjects/lab6-mystring/zaj6MyString/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE --std=c++17 -Wall -Wextra -pedantic -Weffc++ -g -fdiagnostics-color=always -std=c++17 -o CMakeFiles\\zad6MyString_dlaStudentow.dir\\mystring.cpp.obj -c C:\\Users\\wikto\\CLionProjects\\lab6-mystring\\zaj6MyString\\mystring.cpp",
+  "file": "C:\\Users\\wikto\\CLionProjects\\lab6-mystring\\zaj6MyString\\mystring.cpp"
+},
+{
+  "directory": "C:/Users/wikto/CLionProjects/lab6-mystring/zaj6MyString/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -isystem C:/Users/wikto/CLionProjects/lab6-mystring/zaj6MyString/tests/lib/googletest/include -isystem C:/Users/wikto/CLionProjects/lab6-mystring/zaj6MyString/tests/lib/googletest --std=c++17 -Wall -Wextra -pedantic -Weffc++ -g -fdiagnostics-color=always -std=c++17 -o tests\\CMakeFiles\\tests.dir\\myStringTests.cpp.obj -c C:\\Users\\wikto\\CLionProjects\\lab6-mystring\\zaj6MyString\\tests\\myStringTests.cpp",
+  "file": "C:\\Users\\wikto\\CLionProjects\\lab6-mystring\\zaj6MyString\\tests\\myStringTests.cpp"
+},
+{
+  "directory": "C:/Users/wikto/CLionProjects/lab6-mystring/zaj6MyString/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -isystem C:/Users/wikto/CLionProjects/lab6-mystring/zaj6MyString/tests/lib/googletest/include -isystem C:/Users/wikto/CLionProjects/lab6-mystring/zaj6MyString/tests/lib/googletest --std=c++17 -Wall -Wextra -pedantic -Weffc++ -g -fdiagnostics-color=always -std=c++17 -o tests\\CMakeFiles\\tests.dir\\__\\mystring.cpp.obj -c C:\\Users\\wikto\\CLionProjects\\lab6-mystring\\zaj6MyString\\mystring.cpp",
+  "file": "C:\\Users\\wikto\\CLionProjects\\lab6-mystring\\zaj6MyString\\mystring.cpp"
+},
+{
+  "directory": "C:/Users/wikto/CLionProjects/lab6-mystring/zaj6MyString/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -IC:/Users/wikto/CLionProjects/lab6-mystring/zaj6MyString/tests/lib/googlemock/include -IC:/Users/wikto/CLionProjects/lab6-mystring/zaj6MyString/tests/lib/googlemock -isystem C:/Users/wikto/CLionProjects/lab6-mystring/zaj6MyString/tests/lib/googletest/include -isystem C:/Users/wikto/CLionProjects/lab6-mystring/zaj6MyString/tests/lib/googletest --std=c++17 -Wall -Wextra -pedantic -Weffc++ -g -fdiagnostics-color=always -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++17 -o tests\\lib\\googlemock\\CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj -c C:\\Users\\wikto\\CLionProjects\\lab6-mystring\\zaj6MyString\\tests\\lib\\googlemock\\src\\gmock-all.cc",
+  "file": "C:\\Users\\wikto\\CLionProjects\\lab6-mystring\\zaj6MyString\\tests\\lib\\googlemock\\src\\gmock-all.cc"
+},
+{
+  "directory": "C:/Users/wikto/CLionProjects/lab6-mystring/zaj6MyString/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -isystem C:/Users/wikto/CLionProjects/lab6-mystring/zaj6MyString/tests/lib/googlemock/include -isystem C:/Users/wikto/CLionProjects/lab6-mystring/zaj6MyString/tests/lib/googlemock -isystem C:/Users/wikto/CLionProjects/lab6-mystring/zaj6MyString/tests/lib/googletest/include -isystem C:/Users/wikto/CLionProjects/lab6-mystring/zaj6MyString/tests/lib/googletest --std=c++17 -Wall -Wextra -pedantic -Weffc++ -g -fdiagnostics-color=always -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++17 -o tests\\lib\\googlemock\\CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj -c C:\\Users\\wikto\\CLionProjects\\lab6-mystring\\zaj6MyString\\tests\\lib\\googlemock\\src\\gmock_main.cc",
+  "file": "C:\\Users\\wikto\\CLionProjects\\lab6-mystring\\zaj6MyString\\tests\\lib\\googlemock\\src\\gmock_main.cc"
+},
+{
+  "directory": "C:/Users/wikto/CLionProjects/lab6-mystring/zaj6MyString/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -IC:/Users/wikto/CLionProjects/lab6-mystring/zaj6MyString/tests/lib/googletest/include -IC:/Users/wikto/CLionProjects/lab6-mystring/zaj6MyString/tests/lib/googletest --std=c++17 -Wall -Wextra -pedantic -Weffc++ -g -fdiagnostics-color=always -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++17 -o tests\\lib\\googletest\\CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj -c C:\\Users\\wikto\\CLionProjects\\lab6-mystring\\zaj6MyString\\tests\\lib\\googletest\\src\\gtest-all.cc",
+  "file": "C:\\Users\\wikto\\CLionProjects\\lab6-mystring\\zaj6MyString\\tests\\lib\\googletest\\src\\gtest-all.cc"
+},
+{
+  "directory": "C:/Users/wikto/CLionProjects/lab6-mystring/zaj6MyString/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -isystem C:/Users/wikto/CLionProjects/lab6-mystring/zaj6MyString/tests/lib/googletest/include -isystem C:/Users/wikto/CLionProjects/lab6-mystring/zaj6MyString/tests/lib/googletest --std=c++17 -Wall -Wextra -pedantic -Weffc++ -g -fdiagnostics-color=always -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++17 -o tests\\lib\\googletest\\CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj -c C:\\Users\\wikto\\CLionProjects\\lab6-mystring\\zaj6MyString\\tests\\lib\\googletest\\src\\gtest_main.cc",
+  "file": "C:\\Users\\wikto\\CLionProjects\\lab6-mystring\\zaj6MyString\\tests\\lib\\googletest\\src\\gtest_main.cc"
+}
+]

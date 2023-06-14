@@ -1,0 +1,24 @@
+[ 14%] Building CXX object tests/lib/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o
+[ 28%] Linking CXX static library ../../../lib/libgtest.a
+[ 28%] Built target gtest
+[ 42%] Building CXX object tests/lib/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o
+[ 57%] Linking CXX static library ../../../lib/libgtest_main.a
+[ 57%] Built target gtest_main
+[ 71%] Building CXX object tests/CMakeFiles/tests.dir/MySortTests.cpp.o
+[ 85%] Building CXX object tests/CMakeFiles/tests.dir/MyListTests.cpp.o
+In file included from /tmp/tmp9p2vqms9/student/zaj5MyList_mySort/tests/MySortTests.cpp:8:
+/tmp/tmp9p2vqms9/student/zaj5MyList_mySort/tests/../mySorting.h: In function ‘void mySort(char (&)[size1][size2]) [with int size1 = 11; int size2 = 20]’:
+/tmp/tmp9p2vqms9/student/zaj5MyList_mySort/tests/../mySorting.h:39:40: warning: ‘%s’ directive output may be truncated writing up to 19 bytes into a region of size 12 [-Wformat-truncation=]
+   39 |             snprintf(str1, size1 + 1, "%s", array[j]);
+      |                                        ^~
+/tmp/tmp9p2vqms9/student/zaj5MyList_mySort/tests/../mySorting.h:39:21: note: ‘snprintf’ output between 1 and 20 bytes into a destination of size 12
+   39 |             snprintf(str1, size1 + 1, "%s", array[j]);
+      |             ~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/tmp/tmp9p2vqms9/student/zaj5MyList_mySort/tests/../mySorting.h:40:40: warning: ‘%s’ directive output may be truncated writing up to 19 bytes into a region of size 12 [-Wformat-truncation=]
+   40 |             snprintf(str2, size1 + 1, "%s", array[j + 1]);
+      |                                        ^~
+/tmp/tmp9p2vqms9/student/zaj5MyList_mySort/tests/../mySorting.h:40:21: note: ‘snprintf’ output between 1 and 20 bytes into a destination of size 12
+   40 |             snprintf(str2, size1 + 1, "%s", array[j + 1]);
+      |             ~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[100%] Linking CXX executable ../bin/tests
+[100%] Built target tests

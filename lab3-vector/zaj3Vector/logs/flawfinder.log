@@ -1,0 +1,2 @@
+/tmp/tmp7fbx4cuq/student/zaj3Vector/vector.cpp:25:14:  [2] (buffer) memcpy:Does not check for buffer overflows when copying to destination (CWE-120).  Make sure destination can always hold the source data. 
+        std::memcpy(data_.get(), other.data_.get(), size_ * sizeof(Fraction));

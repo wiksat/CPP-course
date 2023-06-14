@@ -1,0 +1,20 @@
+# ninja log v5
+116	1144	7036218207770579	tests/lib/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	d231922ad8a5d4aa
+44	1405	7036218210411114	tests/CMakeFiles/tests.dir/shapesTests.cpp.obj	e616eb9451501659
+65	334	7036218199788604	tests/CMakeFiles/tests.dir/__/shapecomposite.cpp.obj	2c112b57c90f5a85
+6081	7997	7036218276336051	bin/tests.exe	5d4001a371394101
+106	4484	7036218241059488	tests/lib/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	bff51e74f4f0da2b
+35	139	7036218197808004	CMakeFiles/zad4ShapeDrawing_dlaStudentow.dir/rectangle.cpp.obj	36404b9b1400d889
+4485	5966	7036218256103846	lib/libgtest.a	5ab1a56fbc79e975
+55	151	7036218197918007	tests/CMakeFiles/tests.dir/__/circle.cpp.obj	b54d4c6ae92c8f9d
+5978	6081	7036218257260111	lib/libgtest_main.a	c93c70a8e3f2fd28
+75	175	7036218198207950	tests/CMakeFiles/tests.dir/__/rectangle.cpp.obj	d97fba15330d8d73
+0	18	0	clean	f5ff37c02e4507d2
+4	131	7036218197412775	CMakeFiles/zad4ShapeDrawing_dlaStudentow.dir/circle.cpp.obj	d5fbe9551d651fdc
+17	398	7036218200438646	CMakeFiles/zad4ShapeDrawing_dlaStudentow.dir/main.cpp.obj	b72665e3dbded34e
+399	583	7036218202219063	bin/zad4ShapeDrawing_dlaStudentow.exe	2ce81b2148dc97ab
+85	1379	7036218210161039	tests/lib/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj	dbb4a406ed272590
+6244	6352	7036218259977637	lib/libgmock_main.a	dc0747df7dc1e939
+94	2227	7036218218609011	tests/lib/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	740d4f366b8948f3
+5966	6244	7036218258896497	lib/libgmock.a	db7a37d6c55ccf49
+26	280	7036218199253339	CMakeFiles/zad4ShapeDrawing_dlaStudentow.dir/shapecomposite.cpp.obj	ad49dbf7a0239218

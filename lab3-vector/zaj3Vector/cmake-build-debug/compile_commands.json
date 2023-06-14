@@ -1,0 +1,57 @@
+[
+{
+  "directory": "C:/Users/wikto/CLionProjects/lab3-vector/zaj3Vector/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE --std=c++17 -Wall -Wextra -pedantic -g -fdiagnostics-color=always -std=c++17 -o CMakeFiles\\zad3SimpleVector_dlaStudentow.dir\\fraction.cpp.obj -c C:\\Users\\wikto\\CLionProjects\\lab3-vector\\zaj3Vector\\fraction.cpp",
+  "file": "C:\\Users\\wikto\\CLionProjects\\lab3-vector\\zaj3Vector\\fraction.cpp"
+},
+{
+  "directory": "C:/Users/wikto/CLionProjects/lab3-vector/zaj3Vector/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE --std=c++17 -Wall -Wextra -pedantic -g -fdiagnostics-color=always -std=c++17 -o CMakeFiles\\zad3SimpleVector_dlaStudentow.dir\\main.cpp.obj -c C:\\Users\\wikto\\CLionProjects\\lab3-vector\\zaj3Vector\\main.cpp",
+  "file": "C:\\Users\\wikto\\CLionProjects\\lab3-vector\\zaj3Vector\\main.cpp"
+},
+{
+  "directory": "C:/Users/wikto/CLionProjects/lab3-vector/zaj3Vector/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE --std=c++17 -Wall -Wextra -pedantic -g -fdiagnostics-color=always -std=c++17 -o CMakeFiles\\zad3SimpleVector_dlaStudentow.dir\\vector.cpp.obj -c C:\\Users\\wikto\\CLionProjects\\lab3-vector\\zaj3Vector\\vector.cpp",
+  "file": "C:\\Users\\wikto\\CLionProjects\\lab3-vector\\zaj3Vector\\vector.cpp"
+},
+{
+  "directory": "C:/Users/wikto/CLionProjects/lab3-vector/zaj3Vector/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -isystem C:/Users/wikto/CLionProjects/lab3-vector/zaj3Vector/tests/lib/googletest/include -isystem C:/Users/wikto/CLionProjects/lab3-vector/zaj3Vector/tests/lib/googletest --std=c++17 -Wall -Wextra -pedantic -g -fdiagnostics-color=always -std=c++17 -o tests\\CMakeFiles\\tests.dir\\fractionTests.cpp.obj -c C:\\Users\\wikto\\CLionProjects\\lab3-vector\\zaj3Vector\\tests\\fractionTests.cpp",
+  "file": "C:\\Users\\wikto\\CLionProjects\\lab3-vector\\zaj3Vector\\tests\\fractionTests.cpp"
+},
+{
+  "directory": "C:/Users/wikto/CLionProjects/lab3-vector/zaj3Vector/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -isystem C:/Users/wikto/CLionProjects/lab3-vector/zaj3Vector/tests/lib/googletest/include -isystem C:/Users/wikto/CLionProjects/lab3-vector/zaj3Vector/tests/lib/googletest --std=c++17 -Wall -Wextra -pedantic -g -fdiagnostics-color=always -std=c++17 -o tests\\CMakeFiles\\tests.dir\\vectorTests.cpp.obj -c C:\\Users\\wikto\\CLionProjects\\lab3-vector\\zaj3Vector\\tests\\vectorTests.cpp",
+  "file": "C:\\Users\\wikto\\CLionProjects\\lab3-vector\\zaj3Vector\\tests\\vectorTests.cpp"
+},
+{
+  "directory": "C:/Users/wikto/CLionProjects/lab3-vector/zaj3Vector/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -isystem C:/Users/wikto/CLionProjects/lab3-vector/zaj3Vector/tests/lib/googletest/include -isystem C:/Users/wikto/CLionProjects/lab3-vector/zaj3Vector/tests/lib/googletest --std=c++17 -Wall -Wextra -pedantic -g -fdiagnostics-color=always -std=c++17 -o tests\\CMakeFiles\\tests.dir\\__\\fraction.cpp.obj -c C:\\Users\\wikto\\CLionProjects\\lab3-vector\\zaj3Vector\\fraction.cpp",
+  "file": "C:\\Users\\wikto\\CLionProjects\\lab3-vector\\zaj3Vector\\fraction.cpp"
+},
+{
+  "directory": "C:/Users/wikto/CLionProjects/lab3-vector/zaj3Vector/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -isystem C:/Users/wikto/CLionProjects/lab3-vector/zaj3Vector/tests/lib/googletest/include -isystem C:/Users/wikto/CLionProjects/lab3-vector/zaj3Vector/tests/lib/googletest --std=c++17 -Wall -Wextra -pedantic -g -fdiagnostics-color=always -std=c++17 -o tests\\CMakeFiles\\tests.dir\\__\\vector.cpp.obj -c C:\\Users\\wikto\\CLionProjects\\lab3-vector\\zaj3Vector\\vector.cpp",
+  "file": "C:\\Users\\wikto\\CLionProjects\\lab3-vector\\zaj3Vector\\vector.cpp"
+},
+{
+  "directory": "C:/Users/wikto/CLionProjects/lab3-vector/zaj3Vector/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -IC:/Users/wikto/CLionProjects/lab3-vector/zaj3Vector/tests/lib/googlemock/include -IC:/Users/wikto/CLionProjects/lab3-vector/zaj3Vector/tests/lib/googlemock -isystem C:/Users/wikto/CLionProjects/lab3-vector/zaj3Vector/tests/lib/googletest/include -isystem C:/Users/wikto/CLionProjects/lab3-vector/zaj3Vector/tests/lib/googletest --std=c++17 -Wall -Wextra -pedantic -g -fdiagnostics-color=always -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++17 -o tests\\lib\\googlemock\\CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj -c C:\\Users\\wikto\\CLionProjects\\lab3-vector\\zaj3Vector\\tests\\lib\\googlemock\\src\\gmock-all.cc",
+  "file": "C:\\Users\\wikto\\CLionProjects\\lab3-vector\\zaj3Vector\\tests\\lib\\googlemock\\src\\gmock-all.cc"
+},
+{
+  "directory": "C:/Users/wikto/CLionProjects/lab3-vector/zaj3Vector/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -isystem C:/Users/wikto/CLionProjects/lab3-vector/zaj3Vector/tests/lib/googlemock/include -isystem C:/Users/wikto/CLionProjects/lab3-vector/zaj3Vector/tests/lib/googlemock -isystem C:/Users/wikto/CLionProjects/lab3-vector/zaj3Vector/tests/lib/googletest/include -isystem C:/Users/wikto/CLionProjects/lab3-vector/zaj3Vector/tests/lib/googletest --std=c++17 -Wall -Wextra -pedantic -g -fdiagnostics-color=always -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++17 -o tests\\lib\\googlemock\\CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj -c C:\\Users\\wikto\\CLionProjects\\lab3-vector\\zaj3Vector\\tests\\lib\\googlemock\\src\\gmock_main.cc",
+  "file": "C:\\Users\\wikto\\CLionProjects\\lab3-vector\\zaj3Vector\\tests\\lib\\googlemock\\src\\gmock_main.cc"
+},
+{
+  "directory": "C:/Users/wikto/CLionProjects/lab3-vector/zaj3Vector/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -IC:/Users/wikto/CLionProjects/lab3-vector/zaj3Vector/tests/lib/googletest/include -IC:/Users/wikto/CLionProjects/lab3-vector/zaj3Vector/tests/lib/googletest --std=c++17 -Wall -Wextra -pedantic -g -fdiagnostics-color=always -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++17 -o tests\\lib\\googletest\\CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj -c C:\\Users\\wikto\\CLionProjects\\lab3-vector\\zaj3Vector\\tests\\lib\\googletest\\src\\gtest-all.cc",
+  "file": "C:\\Users\\wikto\\CLionProjects\\lab3-vector\\zaj3Vector\\tests\\lib\\googletest\\src\\gtest-all.cc"
+},
+{
+  "directory": "C:/Users/wikto/CLionProjects/lab3-vector/zaj3Vector/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -isystem C:/Users/wikto/CLionProjects/lab3-vector/zaj3Vector/tests/lib/googletest/include -isystem C:/Users/wikto/CLionProjects/lab3-vector/zaj3Vector/tests/lib/googletest --std=c++17 -Wall -Wextra -pedantic -g -fdiagnostics-color=always -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++17 -o tests\\lib\\googletest\\CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj -c C:\\Users\\wikto\\CLionProjects\\lab3-vector\\zaj3Vector\\tests\\lib\\googletest\\src\\gtest_main.cc",
+  "file": "C:\\Users\\wikto\\CLionProjects\\lab3-vector\\zaj3Vector\\tests\\lib\\googletest\\src\\gtest_main.cc"
+}
+]
